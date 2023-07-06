@@ -1,6 +1,15 @@
 #blog{
-          background-color: rgb(163, 226, 205);
+          background-color: red
           padding: 10px;
           margin: 10px;
+          
+}
+p{
+          font-style: italic
+          
+}
+h3{
+          text-align: center;
+          font-size: large;
 }
 
